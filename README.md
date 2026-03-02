@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> This repository is no longer actively maintained. Read more about it [here](https://project-mei.xyz/blog/dont-host-modmail/).
 <h1 align="center"><img src="https://files.catbox.moe/92mfqx.png"></h1>
 <div align="center">
  <a href="https://github.com/raidensakura"><img src="https://img.shields.io/badge/modmail--plugins-by%20Raiden-d11df9"></a>
